@@ -280,3 +280,43 @@ align-content: center;
     height: 50%;
     margin: 100px;
 }
+
+.cuerpoSeccionProyectos{
+    display: block;
+    background: rgb(196, 185, 185);
+    width: 535px;
+    height: 449px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 1px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding-bottom: 6%;
+    align-content: center;
+    }
+
+.cuerpoSeccionProyectos h1{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.cuerpoSeccionProyectos p{
+display: flex; 
+text-align: center;  
+justify-content: center;
+}
+
+.imagenesProyecto{
+    width: 80%;
+    height: 80%;
+    margin:9%;
+    margin-bottom: 10px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    display: flex; 
+}
